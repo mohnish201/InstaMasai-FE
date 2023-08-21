@@ -6,8 +6,8 @@ import Navbar from './Pages/Navbar';
 function App() {
   return (
     <div className="App">
-      <All_Routes />
       <Navbar />
+      <All_Routes />
     </div>
   );
 }
